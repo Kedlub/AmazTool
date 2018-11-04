@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">AmazTool</string>
+    <string name="main_header" translatable="false">AmazTool</string>
+
+    <string name="reboot">Reboot</string>
+    <string name="reboot_desc">Reboot watch</string>
+    <string name="reboot_launcher">Reboot launcher</string>
+    <string name="reboot_launcher_desc">Reboots Springboard launcher</string>
+    <string name="set_keyboard">Set keyboard</string>
+    <string name="set_keyboard_desc">Sets Minnum keyboard as the main keyboard</string>
+    <string name="enable_applist">Enable Applist</string>
+    <string name="enable_applist_desc">Enable hidden app list</string>
+    <string name="disable_applist">Disable Applist</string>
+    <string name="disable_applist_desc">Disable hidden app list</string>
+
+    <string name="done">Done</string>
+</resources>

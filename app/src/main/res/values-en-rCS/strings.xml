@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">AmazTool</string>
+    <string name="main_header" translatable="false">AmazTool</string>
+
+    <string name="reboot">Restartovat</string>
+    <string name="reboot_desc">Restartuje hodinky</string>
+    <string name="reboot_launcher">Restartovat launcher</string>
+    <string name="reboot_launcher_desc">Restartuje Springboard launcher</string>
+    <string name="set_keyboard">Nastavit klávesnici</string>
+    <string name="set_keyboard_desc">Nastaví klávesnici Minuum jako hlavní klávesnici</string>
+    <string name="enable_applist">Povolit Applist</string>
+    <string name="enable_applist_desc">Povolí seznam skrytých aplikací</string>
+    <string name="disable_applist">Zakázat Applist</string>
+    <string name="disable_applist_desc">Zakáže seznam skrytých aplikací</string>
+
+    <string name="done">Hotovo</string>
+</resources>
